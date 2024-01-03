@@ -1,0 +1,1802 @@
+[
+    {
+      "nro_rep": 1,
+      "des_rep": "Scallops - Live In Shell",
+      "categoria": "Technology",
+      "subRubro": "Computer Software: Prepackaged Software",
+      "temporada": "abramwich0",
+      "stock_suc": 86,
+      "stock_total": 472
+    },
+    {
+      "nro_rep": 2,
+      "des_rep": "Soup - Boston Clam Chowder",
+      "categoria": "Finance",
+      "subRubro": "Accident &Health Insurance",
+      "temporada": "hstiggers1",
+      "stock_suc": 23,
+      "stock_total": 341
+    },
+    {
+      "nro_rep": 3,
+      "des_rep": "Beef - Cow Feet Split",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "aanderer2",
+      "stock_suc": 79,
+      "stock_total": 756
+    },
+    {
+      "nro_rep": 4,
+      "des_rep": "Yogurt - French Vanilla",
+      "categoria": "Consumer Services",
+      "subRubro": "Transportation Services",
+      "temporada": "cbarrett3",
+      "stock_suc": 9,
+      "stock_total": 731
+    },
+    {
+      "nro_rep": 5,
+      "des_rep": "Salt - Seasoned",
+      "categoria": "Health Care",
+      "subRubro": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+      "temporada": "gpendlebery4",
+      "stock_suc": 83,
+      "stock_total": 972
+    },
+    {
+      "nro_rep": 6,
+      "des_rep": "Plums - Red",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "jbeacon5",
+      "stock_suc": 88,
+      "stock_total": 999
+    },
+    {
+      "nro_rep": 7,
+      "des_rep": "Mustard - Seed",
+      "categoria": "Consumer Non-Durables",
+      "subRubro": "Beverages (Production/Distribution)",
+      "temporada": "cvoase6",
+      "stock_suc": 51,
+      "stock_total": 439
+    },
+    {
+      "nro_rep": 8,
+      "des_rep": "Rice - Long Grain",
+      "categoria": "Technology",
+      "subRubro": "EDP Services",
+      "temporada": "fsackes7",
+      "stock_suc": 31,
+      "stock_total": 877
+    },
+    {
+      "nro_rep": 9,
+      "des_rep": "Flower - Commercial Bronze",
+      "categoria": "Consumer Services",
+      "subRubro": "Catalog/Specialty Distribution",
+      "temporada": "agrattan8",
+      "stock_suc": 62,
+      "stock_total": 856
+    },
+    {
+      "nro_rep": 10,
+      "des_rep": "Lentils - Red, Dry",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "elavelle9",
+      "stock_suc": 99,
+      "stock_total": 542
+    },
+    {
+      "nro_rep": 11,
+      "des_rep": "Oil - Sunflower",
+      "categoria": "Capital Goods",
+      "subRubro": "Biotechnology: Laboratory Analytical Instruments",
+      "temporada": "egelardia",
+      "stock_suc": 99,
+      "stock_total": 122
+    },
+    {
+      "nro_rep": 12,
+      "des_rep": "Shopper Bag - S - 4",
+      "categoria": "Consumer Services",
+      "subRubro": "Professional Services",
+      "temporada": "cbranchetb",
+      "stock_suc": 63,
+      "stock_total": 142
+    },
+    {
+      "nro_rep": 13,
+      "des_rep": "Sauerkraut",
+      "categoria": "Finance",
+      "subRubro": "Major Banks",
+      "temporada": "wsinneyc",
+      "stock_suc": 62,
+      "stock_total": 809
+    },
+    {
+      "nro_rep": 14,
+      "des_rep": "Muffin - Banana Nut Individual",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "bballchind",
+      "stock_suc": 42,
+      "stock_total": 591
+    },
+    {
+      "nro_rep": 15,
+      "des_rep": "Lid - 10,12,16 Oz",
+      "categoria": "Technology",
+      "subRubro": "Radio And Television Broadcasting And Communications Equipment",
+      "temporada": "bpepyee",
+      "stock_suc": 19,
+      "stock_total": 482
+    },
+    {
+      "nro_rep": 16,
+      "des_rep": "Pear - Packum",
+      "categoria": "Technology",
+      "subRubro": "Computer Software: Prepackaged Software",
+      "temporada": "csprossonf",
+      "stock_suc": 42,
+      "stock_total": 537
+    },
+    {
+      "nro_rep": 17,
+      "des_rep": "Easy Off Oven Cleaner",
+      "categoria": "Technology",
+      "subRubro": "Computer Software: Prepackaged Software",
+      "temporada": "jmacafeeg",
+      "stock_suc": 68,
+      "stock_total": 888
+    },
+    {
+      "nro_rep": 18,
+      "des_rep": "Gooseberry",
+      "categoria": "Consumer Non-Durables",
+      "subRubro": "Farming/Seeds/Milling",
+      "temporada": "jdockreyh",
+      "stock_suc": 75,
+      "stock_total": 131
+    },
+    {
+      "nro_rep": 19,
+      "des_rep": "Lotus Root",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "bgiacopinii",
+      "stock_suc": 4,
+      "stock_total": 331
+    },
+    {
+      "nro_rep": 20,
+      "des_rep": "Cheese - Cheddar, Mild",
+      "categoria": "Technology",
+      "subRubro": "Computer Software: Prepackaged Software",
+      "temporada": "plydiattj",
+      "stock_suc": 80,
+      "stock_total": 658
+    },
+    {
+      "nro_rep": 21,
+      "des_rep": "Soup - Cream Of Potato / Leek",
+      "categoria": "Consumer Services",
+      "subRubro": "Services-Misc. Amusement & Recreation",
+      "temporada": "sgommeyk",
+      "stock_suc": 60,
+      "stock_total": 992
+    },
+    {
+      "nro_rep": 22,
+      "des_rep": "Soup - Campbells, Cream Of",
+      "categoria": "Technology",
+      "subRubro": "Advertising",
+      "temporada": "lfranklenl",
+      "stock_suc": 8,
+      "stock_total": 88
+    },
+    {
+      "nro_rep": 23,
+      "des_rep": "Maintenance Removal Charge",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "habdiem",
+      "stock_suc": 1,
+      "stock_total": 35
+    },
+    {
+      "nro_rep": 24,
+      "des_rep": "Tray - 12in Rnd Blk",
+      "categoria": "Consumer Services",
+      "subRubro": "Telecommunications Equipment",
+      "temporada": "agoodbann",
+      "stock_suc": 99,
+      "stock_total": 386
+    },
+    {
+      "nro_rep": 25,
+      "des_rep": "Cup - Paper 10oz 92959",
+      "categoria": "Finance",
+      "subRubro": "Major Banks",
+      "temporada": "cdampo",
+      "stock_suc": 32,
+      "stock_total": 785
+    },
+    {
+      "nro_rep": 26,
+      "des_rep": "Ham - Proscuitto",
+      "categoria": "Consumer Durables",
+      "subRubro": "Containers/Packaging",
+      "temporada": "bjoselandp",
+      "stock_suc": 39,
+      "stock_total": 777
+    },
+    {
+      "nro_rep": 27,
+      "des_rep": "Foil Wrap",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "mvialq",
+      "stock_suc": 9,
+      "stock_total": 922
+    },
+    {
+      "nro_rep": 28,
+      "des_rep": "Mousse - Passion Fruit",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "sswindellsr",
+      "stock_suc": 24,
+      "stock_total": 948
+    },
+    {
+      "nro_rep": 29,
+      "des_rep": "Wine - Fume Blanc Fetzer",
+      "categoria": "Consumer Durables",
+      "subRubro": "Miscellaneous manufacturing industries",
+      "temporada": "dstennings",
+      "stock_suc": 17,
+      "stock_total": 48
+    },
+    {
+      "nro_rep": 30,
+      "des_rep": "Rum - Mount Gay Eclipes",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "fchasteyt",
+      "stock_suc": 43,
+      "stock_total": 567
+    },
+    {
+      "nro_rep": 31,
+      "des_rep": "Pasta - Lasagna, Dry",
+      "categoria": "Health Care",
+      "subRubro": "Medical/Dental Instruments",
+      "temporada": "jwagstaffu",
+      "stock_suc": 26,
+      "stock_total": 443
+    },
+    {
+      "nro_rep": 32,
+      "des_rep": "Juice - Lime",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "aguerriv",
+      "stock_suc": 38,
+      "stock_total": 751
+    },
+    {
+      "nro_rep": 33,
+      "des_rep": "Sprouts Dikon",
+      "categoria": "Finance",
+      "subRubro": "Property-Casualty Insurers",
+      "temporada": "anorthgravesw",
+      "stock_suc": 2,
+      "stock_total": 662
+    },
+    {
+      "nro_rep": 34,
+      "des_rep": "Pasta - Fett Alfredo, Single Serve",
+      "categoria": "Public Utilities",
+      "subRubro": "Electric Utilities: Central",
+      "temporada": "efanshawx",
+      "stock_suc": 65,
+      "stock_total": 40
+    },
+    {
+      "nro_rep": 35,
+      "des_rep": "Cheese - Romano, Grated",
+      "categoria": "Consumer Services",
+      "subRubro": "Other Consumer Services",
+      "temporada": "amacgiollay",
+      "stock_suc": 78,
+      "stock_total": 481
+    },
+    {
+      "nro_rep": 36,
+      "des_rep": "Bread - English Muffin",
+      "categoria": "Basic Industries",
+      "subRubro": "Precious Metals",
+      "temporada": "snannettiz",
+      "stock_suc": 66,
+      "stock_total": 962
+    },
+    {
+      "nro_rep": 37,
+      "des_rep": "Peach - Halves",
+      "categoria": "Finance",
+      "subRubro": "Real Estate",
+      "temporada": "emcdade10",
+      "stock_suc": 8,
+      "stock_total": 473
+    },
+    {
+      "nro_rep": 38,
+      "des_rep": "Crab Brie In Phyllo",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "pashbey11",
+      "stock_suc": 23,
+      "stock_total": 499
+    },
+    {
+      "nro_rep": 39,
+      "des_rep": "Wine - Chateau Bonnet",
+      "categoria": "Consumer Services",
+      "subRubro": "Homebuilding",
+      "temporada": "jgrossman12",
+      "stock_suc": 97,
+      "stock_total": 849
+    },
+    {
+      "nro_rep": 40,
+      "des_rep": "Thyme - Lemon, Fresh",
+      "categoria": "Basic Industries",
+      "subRubro": "Major Chemicals",
+      "temporada": "gkenwyn13",
+      "stock_suc": 28,
+      "stock_total": 686
+    },
+    {
+      "nro_rep": 41,
+      "des_rep": "Amaretto",
+      "categoria": "Capital Goods",
+      "subRubro": "Pollution Control Equipment",
+      "temporada": "nhek14",
+      "stock_suc": 23,
+      "stock_total": 928
+    },
+    {
+      "nro_rep": 42,
+      "des_rep": "Cranberry Foccacia",
+      "categoria": "Capital Goods",
+      "subRubro": "Building Materials",
+      "temporada": "mclavey15",
+      "stock_suc": 27,
+      "stock_total": 233
+    },
+    {
+      "nro_rep": 43,
+      "des_rep": "Lamb - Leg, Boneless",
+      "categoria": "Health Care",
+      "subRubro": "Biotechnology: Biological Products (No Diagnostic Substances)",
+      "temporada": "emacteague16",
+      "stock_suc": 83,
+      "stock_total": 494
+    },
+    {
+      "nro_rep": 44,
+      "des_rep": "Mousse - Passion Fruit",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "rgoacher17",
+      "stock_suc": 20,
+      "stock_total": 44
+    },
+    {
+      "nro_rep": 45,
+      "des_rep": "Napkin White - Starched",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "zheifer18",
+      "stock_suc": 37,
+      "stock_total": 221
+    },
+    {
+      "nro_rep": 46,
+      "des_rep": "Ginsing - Fresh",
+      "categoria": "Consumer Services",
+      "subRubro": "Automotive Aftermarket",
+      "temporada": "mwield19",
+      "stock_suc": 84,
+      "stock_total": 253
+    },
+    {
+      "nro_rep": 47,
+      "des_rep": "Vermouth - White, Cinzano",
+      "categoria": "Capital Goods",
+      "subRubro": "Industrial Machinery/Components",
+      "temporada": "tsongest1a",
+      "stock_suc": 63,
+      "stock_total": 730
+    },
+    {
+      "nro_rep": 48,
+      "des_rep": "Soup - Cream Of Broccoli",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "rbetjeman1b",
+      "stock_suc": 25,
+      "stock_total": 548
+    },
+    {
+      "nro_rep": 49,
+      "des_rep": "Plums - Red",
+      "categoria": "Capital Goods",
+      "subRubro": "Industrial Specialties",
+      "temporada": "lheams1c",
+      "stock_suc": 3,
+      "stock_total": 933
+    },
+    {
+      "nro_rep": 50,
+      "des_rep": "Peach - Halves",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "gferson1d",
+      "stock_suc": 90,
+      "stock_total": 978
+    },
+    {
+      "nro_rep": 51,
+      "des_rep": "Pork - Caul Fat",
+      "categoria": "Health Care",
+      "subRubro": "Biotechnology: In Vitro & In Vivo Diagnostic Substances",
+      "temporada": "jeades1e",
+      "stock_suc": 34,
+      "stock_total": 425
+    },
+    {
+      "nro_rep": 52,
+      "des_rep": "Lobster - Cooked",
+      "categoria": "Technology",
+      "subRubro": "Diversified Commercial Services",
+      "temporada": "mattree1f",
+      "stock_suc": 61,
+      "stock_total": 784
+    },
+    {
+      "nro_rep": 53,
+      "des_rep": "Calaloo",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "sboig1g",
+      "stock_suc": 66,
+      "stock_total": 166
+    },
+    {
+      "nro_rep": 54,
+      "des_rep": "Sour Puss - Tangerine",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "ccollingridge1h",
+      "stock_suc": 2,
+      "stock_total": 439
+    },
+    {
+      "nro_rep": 55,
+      "des_rep": "Garlic",
+      "categoria": "Basic Industries",
+      "subRubro": "Engineering & Construction",
+      "temporada": "cbratley1i",
+      "stock_suc": 9,
+      "stock_total": 415
+    },
+    {
+      "nro_rep": 56,
+      "des_rep": "Sugar - White Packet",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "gburrett1j",
+      "stock_suc": 65,
+      "stock_total": 513
+    },
+    {
+      "nro_rep": 57,
+      "des_rep": "Mushroom - Morel Frozen",
+      "categoria": "Basic Industries",
+      "subRubro": "Precious Metals",
+      "temporada": "lgronou1k",
+      "stock_suc": 16,
+      "stock_total": 606
+    },
+    {
+      "nro_rep": 58,
+      "des_rep": "Cup - Paper 10oz 92959",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "gsaltsberg1l",
+      "stock_suc": 52,
+      "stock_total": 66
+    },
+    {
+      "nro_rep": 59,
+      "des_rep": "Yogurt - French Vanilla",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "mdomniney1m",
+      "stock_suc": 13,
+      "stock_total": 671
+    },
+    {
+      "nro_rep": 60,
+      "des_rep": "Capers - Pickled",
+      "categoria": "Finance",
+      "subRubro": "Major Banks",
+      "temporada": "hvennard1n",
+      "stock_suc": 75,
+      "stock_total": 530
+    },
+    {
+      "nro_rep": 61,
+      "des_rep": "Dc - Sakura Fu",
+      "categoria": "Public Utilities",
+      "subRubro": "Power Generation",
+      "temporada": "jsheards1o",
+      "stock_suc": 77,
+      "stock_total": 455
+    },
+    {
+      "nro_rep": 62,
+      "des_rep": "Wine - Barolo Fontanafredda",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "asaile1p",
+      "stock_suc": 5,
+      "stock_total": 161
+    },
+    {
+      "nro_rep": 63,
+      "des_rep": "Cut Wakame - Hanawakaba",
+      "categoria": "Capital Goods",
+      "subRubro": "Electronic Components",
+      "temporada": "osumsion1q",
+      "stock_suc": 11,
+      "stock_total": 192
+    },
+    {
+      "nro_rep": 64,
+      "des_rep": "Vinegar - Raspberry",
+      "categoria": "Consumer Services",
+      "subRubro": "Movies/Entertainment",
+      "temporada": "blydon1r",
+      "stock_suc": 67,
+      "stock_total": 768
+    },
+    {
+      "nro_rep": 65,
+      "des_rep": "Cassis",
+      "categoria": "Consumer Services",
+      "subRubro": "Telecommunications Equipment",
+      "temporada": "lsnowding1s",
+      "stock_suc": 41,
+      "stock_total": 858
+    },
+    {
+      "nro_rep": 66,
+      "des_rep": "Tea - Black Currant",
+      "categoria": "Capital Goods",
+      "subRubro": "Homebuilding",
+      "temporada": "espight1t",
+      "stock_suc": 38,
+      "stock_total": 516
+    },
+    {
+      "nro_rep": 67,
+      "des_rep": "Bacon Strip Precooked",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "lcrowhurst1u",
+      "stock_suc": 25,
+      "stock_total": 561
+    },
+    {
+      "nro_rep": 68,
+      "des_rep": "Cheese - Brie, Cups 125g",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "dwoolfitt1v",
+      "stock_suc": 21,
+      "stock_total": 261
+    },
+    {
+      "nro_rep": 69,
+      "des_rep": "Flower - Leather Leaf Fern",
+      "categoria": "Finance",
+      "subRubro": "Investment Bankers/Brokers/Service",
+      "temporada": "nhilhouse1w",
+      "stock_suc": 2,
+      "stock_total": 549
+    },
+    {
+      "nro_rep": 70,
+      "des_rep": "Broom And Brush Rack Black",
+      "categoria": "Consumer Services",
+      "subRubro": "Advertising",
+      "temporada": "wboulstridge1x",
+      "stock_suc": 63,
+      "stock_total": 393
+    },
+    {
+      "nro_rep": 71,
+      "des_rep": "Coffee - Decafenated",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "bmcmeekan1y",
+      "stock_suc": 16,
+      "stock_total": 738
+    },
+    {
+      "nro_rep": 72,
+      "des_rep": "Tomatoes - Diced, Canned",
+      "categoria": "Health Care",
+      "subRubro": "Medical Specialities",
+      "temporada": "dingerith1z",
+      "stock_suc": 49,
+      "stock_total": 761
+    },
+    {
+      "nro_rep": 73,
+      "des_rep": "Tuna - Sushi Grade",
+      "categoria": "Technology",
+      "subRubro": "Diversified Commercial Services",
+      "temporada": "galwell20",
+      "stock_suc": 30,
+      "stock_total": 307
+    },
+    {
+      "nro_rep": 74,
+      "des_rep": "Cumin - Whole",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "fbedding21",
+      "stock_suc": 8,
+      "stock_total": 503
+    },
+    {
+      "nro_rep": 75,
+      "des_rep": "Shrimp, Dried, Small / Lb",
+      "categoria": "Consumer Services",
+      "subRubro": "Department/Specialty Retail Stores",
+      "temporada": "cbuchett22",
+      "stock_suc": 47,
+      "stock_total": 301
+    },
+    {
+      "nro_rep": 76,
+      "des_rep": "Bread Fig And Almond",
+      "categoria": "Consumer Non-Durables",
+      "subRubro": "Packaged Foods",
+      "temporada": "kpeartree23",
+      "stock_suc": 9,
+      "stock_total": 823
+    },
+    {
+      "nro_rep": 77,
+      "des_rep": "Coffee Caramel Biscotti",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "bcurnnokk24",
+      "stock_suc": 93,
+      "stock_total": 223
+    },
+    {
+      "nro_rep": 78,
+      "des_rep": "Sauce - Balsamic Viniagrette",
+      "categoria": "Consumer Services",
+      "subRubro": "Restaurants",
+      "temporada": "vmcaw25",
+      "stock_suc": 38,
+      "stock_total": 437
+    },
+    {
+      "nro_rep": 79,
+      "des_rep": "Rhubarb",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "gbyre26",
+      "stock_suc": 29,
+      "stock_total": 112
+    },
+    {
+      "nro_rep": 80,
+      "des_rep": "Parsley Italian - Fresh",
+      "categoria": "Basic Industries",
+      "subRubro": "Precious Metals",
+      "temporada": "egarrad27",
+      "stock_suc": 71,
+      "stock_total": 863
+    },
+    {
+      "nro_rep": 81,
+      "des_rep": "Vaccum Bag 10x13",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "aleyfield28",
+      "stock_suc": 29,
+      "stock_total": 705
+    },
+    {
+      "nro_rep": 82,
+      "des_rep": "Wine - Two Oceans Cabernet",
+      "categoria": "Energy",
+      "subRubro": "Oilfield Services/Equipment",
+      "temporada": "pbunclark29",
+      "stock_suc": 23,
+      "stock_total": 943
+    },
+    {
+      "nro_rep": 83,
+      "des_rep": "Wine - Red, Gallo, Merlot",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "fdomenichini2a",
+      "stock_suc": 77,
+      "stock_total": 513
+    },
+    {
+      "nro_rep": 84,
+      "des_rep": "Juice - Pineapple, 341 Ml",
+      "categoria": "Health Care",
+      "subRubro": "Medical/Dental Instruments",
+      "temporada": "aveeler2b",
+      "stock_suc": 76,
+      "stock_total": 101
+    },
+    {
+      "nro_rep": 85,
+      "des_rep": "Pork - Inside",
+      "categoria": "Finance",
+      "subRubro": "Major Banks",
+      "temporada": "ncayzer2c",
+      "stock_suc": 81,
+      "stock_total": 262
+    },
+    {
+      "nro_rep": 86,
+      "des_rep": "Wine - Chateauneuf Du Pape",
+      "categoria": "Technology",
+      "subRubro": "Semiconductors",
+      "temporada": "vlundy2d",
+      "stock_suc": 43,
+      "stock_total": 418
+    },
+    {
+      "nro_rep": 87,
+      "des_rep": "Pan Grease",
+      "categoria": "Public Utilities",
+      "subRubro": "Electric Utilities: Central",
+      "temporada": "siveans2e",
+      "stock_suc": 96,
+      "stock_total": 815
+    },
+    {
+      "nro_rep": 88,
+      "des_rep": "Tea - Green",
+      "categoria": "Consumer Non-Durables",
+      "subRubro": "Apparel",
+      "temporada": "dmiliffe2f",
+      "stock_suc": 26,
+      "stock_total": 27
+    },
+    {
+      "nro_rep": 89,
+      "des_rep": "Cake - Dulce De Leche",
+      "categoria": "Finance",
+      "subRubro": "Major Banks",
+      "temporada": "mdoody2g",
+      "stock_suc": 51,
+      "stock_total": 441
+    },
+    {
+      "nro_rep": 90,
+      "des_rep": "Bread - Multigrain, Loaf",
+      "categoria": "Health Care",
+      "subRubro": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+      "temporada": "gmccloud2h",
+      "stock_suc": 68,
+      "stock_total": 7
+    },
+    {
+      "nro_rep": 91,
+      "des_rep": "Tomatoes Tear Drop",
+      "categoria": "Energy",
+      "subRubro": "Oil & Gas Production",
+      "temporada": "csommerly2i",
+      "stock_suc": 8,
+      "stock_total": 814
+    },
+    {
+      "nro_rep": 92,
+      "des_rep": "Mix - Cocktail Ice Cream",
+      "categoria": "Health Care",
+      "subRubro": "Medical/Nursing Services",
+      "temporada": "agentner2j",
+      "stock_suc": 51,
+      "stock_total": 321
+    },
+    {
+      "nro_rep": 93,
+      "des_rep": "Pasta - Penne, Lisce, Dry",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "hbahia2k",
+      "stock_suc": 45,
+      "stock_total": 403
+    },
+    {
+      "nro_rep": 94,
+      "des_rep": "Zucchini - Green",
+      "categoria": "Health Care",
+      "subRubro": "Medical/Dental Instruments",
+      "temporada": "blowres2l",
+      "stock_suc": 44,
+      "stock_total": 18
+    },
+    {
+      "nro_rep": 95,
+      "des_rep": "Wine - Red, Metus Rose",
+      "categoria": "Consumer Services",
+      "subRubro": "Other Consumer Services",
+      "temporada": "jmorkham2m",
+      "stock_suc": 69,
+      "stock_total": 336
+    },
+    {
+      "nro_rep": 96,
+      "des_rep": "Veal - Inside, Choice",
+      "categoria": "Consumer Services",
+      "subRubro": "Hotels/Resorts",
+      "temporada": "rfransemai2n",
+      "stock_suc": 76,
+      "stock_total": 40
+    },
+    {
+      "nro_rep": 97,
+      "des_rep": "Wine - Maipo Valle Cabernet",
+      "categoria": "Health Care",
+      "subRubro": "Biotechnology: Biological Products (No Diagnostic Substances)",
+      "temporada": "brimell2o",
+      "stock_suc": 26,
+      "stock_total": 945
+    },
+    {
+      "nro_rep": 98,
+      "des_rep": "Fond - Chocolate",
+      "categoria": "Consumer Non-Durables",
+      "subRubro": "Shoe Manufacturing",
+      "temporada": "mwhale2p",
+      "stock_suc": 62,
+      "stock_total": 543
+    },
+    {
+      "nro_rep": 99,
+      "des_rep": "Banana - Green",
+      "categoria": "Finance",
+      "subRubro": "Business Services",
+      "temporada": "lsmithson2q",
+      "stock_suc": 81,
+      "stock_total": 190
+    },
+    {
+      "nro_rep": 100,
+      "des_rep": "Beer - Blue",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "lbulbrook2r",
+      "stock_suc": 80,
+      "stock_total": 149
+    },
+    {
+      "nro_rep": 101,
+      "des_rep": "Pasta - Lasagna Noodle, Frozen",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "pweekland2s",
+      "stock_suc": 75,
+      "stock_total": 895
+    },
+    {
+      "nro_rep": 102,
+      "des_rep": "Cup - Paper 10oz 92959",
+      "categoria": "Consumer Services",
+      "subRubro": "Other Consumer Services",
+      "temporada": "janthiftle2t",
+      "stock_suc": 44,
+      "stock_total": 937
+    },
+    {
+      "nro_rep": 103,
+      "des_rep": "Lid Coffee Cup 8oz Blk",
+      "categoria": "Health Care",
+      "subRubro": "Biotechnology: Biological Products (No Diagnostic Substances)",
+      "temporada": "hthripp2u",
+      "stock_suc": 100,
+      "stock_total": 627
+    },
+    {
+      "nro_rep": 104,
+      "des_rep": "Flower - Commercial Spider",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "tsimionescu2v",
+      "stock_suc": 17,
+      "stock_total": 578
+    },
+    {
+      "nro_rep": 105,
+      "des_rep": "Tea - Mint",
+      "categoria": "Public Utilities",
+      "subRubro": "Telecommunications Equipment",
+      "temporada": "dbauchop2w",
+      "stock_suc": 42,
+      "stock_total": 292
+    },
+    {
+      "nro_rep": 106,
+      "des_rep": "Chicken - Base",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "ltesto2x",
+      "stock_suc": 73,
+      "stock_total": 442
+    },
+    {
+      "nro_rep": 107,
+      "des_rep": "Wine - Bourgogne 2002, La",
+      "categoria": "Consumer Non-Durables",
+      "subRubro": "Beverages (Production/Distribution)",
+      "temporada": "amccafferky2y",
+      "stock_suc": 71,
+      "stock_total": 235
+    },
+    {
+      "nro_rep": 108,
+      "des_rep": "Wine - Prem Select Charddonany",
+      "categoria": "Finance",
+      "subRubro": "Business Services",
+      "temporada": "rmabe2z",
+      "stock_suc": 64,
+      "stock_total": 892
+    },
+    {
+      "nro_rep": 109,
+      "des_rep": "Sobe - Orange Carrot",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "aysson30",
+      "stock_suc": 92,
+      "stock_total": 366
+    },
+    {
+      "nro_rep": 110,
+      "des_rep": "Salsify, Organic",
+      "categoria": "Technology",
+      "subRubro": "Radio And Television Broadcasting And Communications Equipment",
+      "temporada": "dgleadhell31",
+      "stock_suc": 64,
+      "stock_total": 335
+    },
+    {
+      "nro_rep": 111,
+      "des_rep": "Pomegranates",
+      "categoria": "Energy",
+      "subRubro": "Oil & Gas Production",
+      "temporada": "kmaccartair32",
+      "stock_suc": 60,
+      "stock_total": 169
+    },
+    {
+      "nro_rep": 112,
+      "des_rep": "Soho Lychee Liqueur",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "gwegman33",
+      "stock_suc": 60,
+      "stock_total": 482
+    },
+    {
+      "nro_rep": 113,
+      "des_rep": "Sauce - Vodka Blush",
+      "categoria": "Health Care",
+      "subRubro": "Medical/Dental Instruments",
+      "temporada": "smactrustey34",
+      "stock_suc": 88,
+      "stock_total": 121
+    },
+    {
+      "nro_rep": 114,
+      "des_rep": "Raspberries - Frozen",
+      "categoria": "Finance",
+      "subRubro": "Business Services",
+      "temporada": "nneath35",
+      "stock_suc": 96,
+      "stock_total": 5
+    },
+    {
+      "nro_rep": 115,
+      "des_rep": "Carrots - Mini, Stem On",
+      "categoria": "Consumer Durables",
+      "subRubro": "Containers/Packaging",
+      "temporada": "lclawley36",
+      "stock_suc": 48,
+      "stock_total": 176
+    },
+    {
+      "nro_rep": 116,
+      "des_rep": "Wiberg Cure",
+      "categoria": "Consumer Services",
+      "subRubro": "Services-Misc. Amusement & Recreation",
+      "temporada": "gduberry37",
+      "stock_suc": 93,
+      "stock_total": 933
+    },
+    {
+      "nro_rep": 117,
+      "des_rep": "Syrup - Monin - Blue Curacao",
+      "categoria": "Energy",
+      "subRubro": "Oil & Gas Production",
+      "temporada": "wjacob38",
+      "stock_suc": 81,
+      "stock_total": 597
+    },
+    {
+      "nro_rep": 118,
+      "des_rep": "Oregano - Dry, Rubbed",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "oorcott39",
+      "stock_suc": 75,
+      "stock_total": 205
+    },
+    {
+      "nro_rep": 119,
+      "des_rep": "Sausage - Meat",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "cogilby3a",
+      "stock_suc": 92,
+      "stock_total": 68
+    },
+    {
+      "nro_rep": 120,
+      "des_rep": "Cheese - Oka",
+      "categoria": "Consumer Non-Durables",
+      "subRubro": "Apparel",
+      "temporada": "kgrent3b",
+      "stock_suc": 85,
+      "stock_total": 390
+    },
+    {
+      "nro_rep": 121,
+      "des_rep": "Pork - Back, Short Cut, Boneless",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "apley3c",
+      "stock_suc": 8,
+      "stock_total": 265
+    },
+    {
+      "nro_rep": 122,
+      "des_rep": "Beef - Cooked, Corned",
+      "categoria": "Energy",
+      "subRubro": "Natural Gas Distribution",
+      "temporada": "akirby3d",
+      "stock_suc": 98,
+      "stock_total": 518
+    },
+    {
+      "nro_rep": 123,
+      "des_rep": "Jerusalem Artichoke",
+      "categoria": "Capital Goods",
+      "subRubro": "Biotechnology: Laboratory Analytical Instruments",
+      "temporada": "dshouler3e",
+      "stock_suc": 40,
+      "stock_total": 248
+    },
+    {
+      "nro_rep": 124,
+      "des_rep": "Pepper - Green, Chili",
+      "categoria": "Finance",
+      "subRubro": "Savings Institutions",
+      "temporada": "apilger3f",
+      "stock_suc": 50,
+      "stock_total": 800
+    },
+    {
+      "nro_rep": 125,
+      "des_rep": "Cheese - Manchego, Spanish",
+      "categoria": "Consumer Non-Durables",
+      "subRubro": "Beverages (Production/Distribution)",
+      "temporada": "gellam3g",
+      "stock_suc": 87,
+      "stock_total": 613
+    },
+    {
+      "nro_rep": 126,
+      "des_rep": "Juice - Apple Cider",
+      "categoria": "Health Care",
+      "subRubro": "Biotechnology: Biological Products (No Diagnostic Substances)",
+      "temporada": "jliccardo3h",
+      "stock_suc": 60,
+      "stock_total": 825
+    },
+    {
+      "nro_rep": 127,
+      "des_rep": "Longos - Grilled Veg Sandwiches",
+      "categoria": "Technology",
+      "subRubro": "EDP Services",
+      "temporada": "gtorritti3i",
+      "stock_suc": 70,
+      "stock_total": 232
+    },
+    {
+      "nro_rep": 128,
+      "des_rep": "Bread - Italian Corn Meal Poly",
+      "categoria": "Technology",
+      "subRubro": "Computer Software: Prepackaged Software",
+      "temporada": "faitchison3j",
+      "stock_suc": 25,
+      "stock_total": 626
+    },
+    {
+      "nro_rep": 129,
+      "des_rep": "Cheese - Swiss",
+      "categoria": "Energy",
+      "subRubro": "Oil & Gas Production",
+      "temporada": "rterbrugge3k",
+      "stock_suc": 15,
+      "stock_total": 187
+    },
+    {
+      "nro_rep": 130,
+      "des_rep": "Pastry - Banana Tea Loaf",
+      "categoria": "Finance",
+      "subRubro": "Real Estate",
+      "temporada": "rtrendle3l",
+      "stock_suc": 39,
+      "stock_total": 679
+    },
+    {
+      "nro_rep": 131,
+      "des_rep": "Cheese - Cheddar, Medium",
+      "categoria": "Capital Goods",
+      "subRubro": "Biotechnology: Laboratory Analytical Instruments",
+      "temporada": "nfindley3m",
+      "stock_suc": 10,
+      "stock_total": 801
+    },
+    {
+      "nro_rep": 132,
+      "des_rep": "Wine - Riesling Dr. Pauly",
+      "categoria": "Finance",
+      "subRubro": "Major Banks",
+      "temporada": "lmeedendorpe3n",
+      "stock_suc": 67,
+      "stock_total": 552
+    },
+    {
+      "nro_rep": 133,
+      "des_rep": "Cake Slab",
+      "categoria": "Finance",
+      "subRubro": "Business Services",
+      "temporada": "pclethro3o",
+      "stock_suc": 74,
+      "stock_total": 649
+    },
+    {
+      "nro_rep": 134,
+      "des_rep": "Nut - Cashews, Whole, Raw",
+      "categoria": "Finance",
+      "subRubro": "Property-Casualty Insurers",
+      "temporada": "eraggett3p",
+      "stock_suc": 90,
+      "stock_total": 251
+    },
+    {
+      "nro_rep": 135,
+      "des_rep": "Cake Circle, Paprus",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "vphilippard3q",
+      "stock_suc": 79,
+      "stock_total": 575
+    },
+    {
+      "nro_rep": 136,
+      "des_rep": "Chicken - Livers",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "ghaggus3r",
+      "stock_suc": 45,
+      "stock_total": 920
+    },
+    {
+      "nro_rep": 137,
+      "des_rep": "Beer - True North Lager",
+      "categoria": "Energy",
+      "subRubro": "Oil & Gas Production",
+      "temporada": "wbantham3s",
+      "stock_suc": 97,
+      "stock_total": 939
+    },
+    {
+      "nro_rep": 138,
+      "des_rep": "Wine - Prosecco Valdobienne",
+      "categoria": "Finance",
+      "subRubro": "Major Banks",
+      "temporada": "crimer3t",
+      "stock_suc": 68,
+      "stock_total": 501
+    },
+    {
+      "nro_rep": 139,
+      "des_rep": "Pears - Bosc",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "phards3u",
+      "stock_suc": 25,
+      "stock_total": 675
+    },
+    {
+      "nro_rep": 140,
+      "des_rep": "Soup - Campbells Beef Noodle",
+      "categoria": "Technology",
+      "subRubro": "Computer Software: Programming, Data Processing",
+      "temporada": "ajeanon3v",
+      "stock_suc": 36,
+      "stock_total": 677
+    },
+    {
+      "nro_rep": 141,
+      "des_rep": "Pepper - Paprika, Hungarian",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "vkenner3w",
+      "stock_suc": 7,
+      "stock_total": 171
+    },
+    {
+      "nro_rep": 142,
+      "des_rep": "Wine - Red, Pelee Island Merlot",
+      "categoria": "Technology",
+      "subRubro": "Diversified Commercial Services",
+      "temporada": "nhanvey3x",
+      "stock_suc": 1,
+      "stock_total": 805
+    },
+    {
+      "nro_rep": 143,
+      "des_rep": "Pepper - Gypsy Pepper",
+      "categoria": "Consumer Non-Durables",
+      "subRubro": "Packaged Foods",
+      "temporada": "astainbridge3y",
+      "stock_suc": 88,
+      "stock_total": 529
+    },
+    {
+      "nro_rep": 144,
+      "des_rep": "Wine - Alicanca Vinho Verde",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "sbunney3z",
+      "stock_suc": 21,
+      "stock_total": 748
+    },
+    {
+      "nro_rep": 145,
+      "des_rep": "Butter Balls Salted",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "yrowlands40",
+      "stock_suc": 13,
+      "stock_total": 688
+    },
+    {
+      "nro_rep": 146,
+      "des_rep": "Cabbage - Savoy",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "vgritland41",
+      "stock_suc": 33,
+      "stock_total": 970
+    },
+    {
+      "nro_rep": 147,
+      "des_rep": "Pur Value",
+      "categoria": "Consumer Durables",
+      "subRubro": "Consumer Specialties",
+      "temporada": "eheimes42",
+      "stock_suc": 53,
+      "stock_total": 815
+    },
+    {
+      "nro_rep": 148,
+      "des_rep": "Eggplant Oriental",
+      "categoria": "Finance",
+      "subRubro": "Major Banks",
+      "temporada": "hgorham43",
+      "stock_suc": 70,
+      "stock_total": 13
+    },
+    {
+      "nro_rep": 149,
+      "des_rep": "Pork - Ham, Virginia",
+      "categoria": "Basic Industries",
+      "subRubro": "Engineering & Construction",
+      "temporada": "mbeddingham44",
+      "stock_suc": 50,
+      "stock_total": 14
+    },
+    {
+      "nro_rep": 150,
+      "des_rep": "Wine - White, Chardonnay",
+      "categoria": "Miscellaneous",
+      "subRubro": "Business Services",
+      "temporada": "cmacuchadair45",
+      "stock_suc": 91,
+      "stock_total": 266
+    },
+    {
+      "nro_rep": 151,
+      "des_rep": "Tequila Rose Cream Liquor",
+      "categoria": "Energy",
+      "subRubro": "Oil & Gas Production",
+      "temporada": "eoland46",
+      "stock_suc": 34,
+      "stock_total": 798
+    },
+    {
+      "nro_rep": 152,
+      "des_rep": "Tart Shells - Barquettes, Savory",
+      "categoria": "Capital Goods",
+      "subRubro": "Building Materials",
+      "temporada": "psandlin47",
+      "stock_suc": 48,
+      "stock_total": 469
+    },
+    {
+      "nro_rep": 153,
+      "des_rep": "Chick Peas - Dried",
+      "categoria": "Technology",
+      "subRubro": "EDP Services",
+      "temporada": "gdannehl48",
+      "stock_suc": 46,
+      "stock_total": 796
+    },
+    {
+      "nro_rep": 154,
+      "des_rep": "Lamb Tenderloin Nz Fr",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "bbutters49",
+      "stock_suc": 3,
+      "stock_total": 725
+    },
+    {
+      "nro_rep": 155,
+      "des_rep": "Table Cloth 62x120 Colour",
+      "categoria": "Finance",
+      "subRubro": "Life Insurance",
+      "temporada": "tmealing4a",
+      "stock_suc": 82,
+      "stock_total": 944
+    },
+    {
+      "nro_rep": 156,
+      "des_rep": "Swordfish Loin Portions",
+      "categoria": "Finance",
+      "subRubro": "Business Services",
+      "temporada": "gprobert4b",
+      "stock_suc": 52,
+      "stock_total": 248
+    },
+    {
+      "nro_rep": 157,
+      "des_rep": "Pastry - Plain Baked Croissant",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "cfarquar4c",
+      "stock_suc": 92,
+      "stock_total": 581
+    },
+    {
+      "nro_rep": 158,
+      "des_rep": "Temperature Recording Station",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "wpresdee4d",
+      "stock_suc": 15,
+      "stock_total": 782
+    },
+    {
+      "nro_rep": 159,
+      "des_rep": "Marjoram - Fresh",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "cwilstead4e",
+      "stock_suc": 94,
+      "stock_total": 712
+    },
+    {
+      "nro_rep": 160,
+      "des_rep": "Steampan Lid",
+      "categoria": "Energy",
+      "subRubro": "Industrial Machinery/Components",
+      "temporada": "kgullen4f",
+      "stock_suc": 48,
+      "stock_total": 790
+    },
+    {
+      "nro_rep": 161,
+      "des_rep": "Anchovy In Oil",
+      "categoria": "Technology",
+      "subRubro": "EDP Services",
+      "temporada": "byerson4g",
+      "stock_suc": 30,
+      "stock_total": 275
+    },
+    {
+      "nro_rep": 162,
+      "des_rep": "Bread - Calabrese Baguette",
+      "categoria": "Miscellaneous",
+      "subRubro": "Business Services",
+      "temporada": "mcounihan4h",
+      "stock_suc": 88,
+      "stock_total": 581
+    },
+    {
+      "nro_rep": 163,
+      "des_rep": "Apple - Northern Spy",
+      "categoria": "Finance",
+      "subRubro": "Property-Casualty Insurers",
+      "temporada": "snewlands4i",
+      "stock_suc": 5,
+      "stock_total": 122
+    },
+    {
+      "nro_rep": 164,
+      "des_rep": "Schnappes - Peach, Walkers",
+      "categoria": "Finance",
+      "subRubro": "Finance: Consumer Services",
+      "temporada": "dbirtle4j",
+      "stock_suc": 13,
+      "stock_total": 758
+    },
+    {
+      "nro_rep": 165,
+      "des_rep": "Quiche Assorted",
+      "categoria": "Public Utilities",
+      "subRubro": "Water Supply",
+      "temporada": "cgittoes4k",
+      "stock_suc": 67,
+      "stock_total": 609
+    },
+    {
+      "nro_rep": 166,
+      "des_rep": "Buffalo - Tenderloin",
+      "categoria": "Technology",
+      "subRubro": "EDP Services",
+      "temporada": "mjansson4l",
+      "stock_suc": 57,
+      "stock_total": 613
+    },
+    {
+      "nro_rep": 167,
+      "des_rep": "Longos - Lasagna Beef",
+      "categoria": "Health Care",
+      "subRubro": "Medical/Dental Instruments",
+      "temporada": "ngorusso4m",
+      "stock_suc": 68,
+      "stock_total": 525
+    },
+    {
+      "nro_rep": 168,
+      "des_rep": "Bar Energy Chocchip",
+      "categoria": "Consumer Services",
+      "subRubro": "Office Equipment/Supplies/Services",
+      "temporada": "rcorpe4n",
+      "stock_suc": 74,
+      "stock_total": 595
+    },
+    {
+      "nro_rep": 169,
+      "des_rep": "Sole - Iqf",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "llejean4o",
+      "stock_suc": 44,
+      "stock_total": 300
+    },
+    {
+      "nro_rep": 170,
+      "des_rep": "Triple Sec - Mcguinness",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "ejecks4p",
+      "stock_suc": 74,
+      "stock_total": 484
+    },
+    {
+      "nro_rep": 171,
+      "des_rep": "Chicken - Leg, Fresh",
+      "categoria": "Consumer Durables",
+      "subRubro": "Electrical Products",
+      "temporada": "jgrogona4q",
+      "stock_suc": 46,
+      "stock_total": 162
+    },
+    {
+      "nro_rep": 172,
+      "des_rep": "Rum - Coconut, Malibu",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "nstoney4r",
+      "stock_suc": 15,
+      "stock_total": 137
+    },
+    {
+      "nro_rep": 173,
+      "des_rep": "Rice - 7 Grain Blend",
+      "categoria": "Finance",
+      "subRubro": "Savings Institutions",
+      "temporada": "emcauslene4s",
+      "stock_suc": 31,
+      "stock_total": 554
+    },
+    {
+      "nro_rep": 174,
+      "des_rep": "French Pastries",
+      "categoria": "Consumer Durables",
+      "subRubro": "Consumer Specialties",
+      "temporada": "cdorian4t",
+      "stock_suc": 7,
+      "stock_total": 352
+    },
+    {
+      "nro_rep": 175,
+      "des_rep": "Glucose",
+      "categoria": "Health Care",
+      "subRubro": "Medical/Dental Instruments",
+      "temporada": "ddaenen4u",
+      "stock_suc": 51,
+      "stock_total": 894
+    },
+    {
+      "nro_rep": 176,
+      "des_rep": "Wine - Fontanafredda Barolo",
+      "categoria": "Energy",
+      "subRubro": "Oil & Gas Production",
+      "temporada": "vcurphey4v",
+      "stock_suc": 27,
+      "stock_total": 226
+    },
+    {
+      "nro_rep": 177,
+      "des_rep": "Fish - Base, Bouillion",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "troxbee4w",
+      "stock_suc": 48,
+      "stock_total": 409
+    },
+    {
+      "nro_rep": 178,
+      "des_rep": "Beef - Shank",
+      "categoria": "Finance",
+      "subRubro": "Major Banks",
+      "temporada": "ldelwater4x",
+      "stock_suc": 83,
+      "stock_total": 540
+    },
+    {
+      "nro_rep": 179,
+      "des_rep": "Ecolab - Lime - A - Way 4/4 L",
+      "categoria": "Basic Industries",
+      "subRubro": "Major Chemicals",
+      "temporada": "acasillis4y",
+      "stock_suc": 13,
+      "stock_total": 451
+    },
+    {
+      "nro_rep": 180,
+      "des_rep": "Onions Granulated",
+      "categoria": "Finance",
+      "subRubro": "Major Banks",
+      "temporada": "bbachs4z",
+      "stock_suc": 65,
+      "stock_total": 143
+    },
+    {
+      "nro_rep": 181,
+      "des_rep": "Bread - Rolls, Corn",
+      "categoria": "Consumer Services",
+      "subRubro": "Real Estate Investment Trusts",
+      "temporada": "epinxton50",
+      "stock_suc": 77,
+      "stock_total": 93
+    },
+    {
+      "nro_rep": 182,
+      "des_rep": "Wine - Chablis 2003 Champs",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "gbigglestone51",
+      "stock_suc": 9,
+      "stock_total": 259
+    },
+    {
+      "nro_rep": 183,
+      "des_rep": "Rum - White, Gg White",
+      "categoria": "Consumer Services",
+      "subRubro": "Restaurants",
+      "temporada": "eferrand52",
+      "stock_suc": 34,
+      "stock_total": 682
+    },
+    {
+      "nro_rep": 184,
+      "des_rep": "Coconut - Shredded, Unsweet",
+      "categoria": "Capital Goods",
+      "subRubro": "Pollution Control Equipment",
+      "temporada": "pcastellone53",
+      "stock_suc": 86,
+      "stock_total": 146
+    },
+    {
+      "nro_rep": 185,
+      "des_rep": "Coffee - Colombian, Portioned",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "amate54",
+      "stock_suc": 33,
+      "stock_total": 645
+    },
+    {
+      "nro_rep": 186,
+      "des_rep": "Pomello",
+      "categoria": "Health Care",
+      "subRubro": "Medical/Dental Instruments",
+      "temporada": "agenner55",
+      "stock_suc": 25,
+      "stock_total": 791
+    },
+    {
+      "nro_rep": 187,
+      "des_rep": "Longos - Grilled Veg Sandwiches",
+      "categoria": "Capital Goods",
+      "subRubro": "Industrial Machinery/Components",
+      "temporada": "jcoon56",
+      "stock_suc": 32,
+      "stock_total": 853
+    },
+    {
+      "nro_rep": 188,
+      "des_rep": "Pomegranates",
+      "categoria": "Technology",
+      "subRubro": "EDP Services",
+      "temporada": "cmattsson57",
+      "stock_suc": 17,
+      "stock_total": 506
+    },
+    {
+      "nro_rep": 189,
+      "des_rep": "Soup - Cream Of Broccoli",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "ejacobowitz58",
+      "stock_suc": 11,
+      "stock_total": 39
+    },
+    {
+      "nro_rep": 190,
+      "des_rep": "Myers Planters Punch",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "eliver59",
+      "stock_suc": 91,
+      "stock_total": 96
+    },
+    {
+      "nro_rep": 191,
+      "des_rep": "Chick Peas - Canned",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "hhandover5a",
+      "stock_suc": 35,
+      "stock_total": 467
+    },
+    {
+      "nro_rep": 192,
+      "des_rep": "Cumin - Ground",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "mpracy5b",
+      "stock_suc": 18,
+      "stock_total": 537
+    },
+    {
+      "nro_rep": 193,
+      "des_rep": "Ginger - Pickled",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "dsmuth5c",
+      "stock_suc": 35,
+      "stock_total": 421
+    },
+    {
+      "nro_rep": 194,
+      "des_rep": "Absolut Citron",
+      "categoria": "Finance",
+      "subRubro": "Property-Casualty Insurers",
+      "temporada": "hdulinty5d",
+      "stock_suc": 18,
+      "stock_total": 425
+    },
+    {
+      "nro_rep": 195,
+      "des_rep": "Godiva White Chocolate",
+      "categoria": "Health Care",
+      "subRubro": "Hospital/Nursing Management",
+      "temporada": "rscryne5e",
+      "stock_suc": 13,
+      "stock_total": 233
+    },
+    {
+      "nro_rep": 196,
+      "des_rep": "Onion - Dried",
+      "categoria": "Miscellaneous",
+      "subRubro": "Business Services",
+      "temporada": "jvanderkrui5f",
+      "stock_suc": 42,
+      "stock_total": 311
+    },
+    {
+      "nro_rep": 197,
+      "des_rep": "Cake - Box Window 10x10x2.5",
+      "categoria": "Consumer Services",
+      "subRubro": "Professional Services",
+      "temporada": "mpressman5g",
+      "stock_suc": 42,
+      "stock_total": 954
+    },
+    {
+      "nro_rep": 198,
+      "des_rep": "Energy Drink",
+      "categoria": "n/a",
+      "subRubro": "n/a",
+      "temporada": "fsollon5h",
+      "stock_suc": 30,
+      "stock_total": 249
+    },
+    {
+      "nro_rep": 199,
+      "des_rep": "Pastry - Cherry Danish - Mini",
+      "categoria": "Public Utilities",
+      "subRubro": "Natural Gas Distribution",
+      "temporada": "csurman5i",
+      "stock_suc": 23,
+      "stock_total": 755
+    },
+    {
+      "nro_rep": 200,
+      "des_rep": "Appetizer - Southwestern",
+      "categoria": "Health Care",
+      "subRubro": "Major Pharmaceuticals",
+      "temporada": "ckuhle5j",
+      "stock_suc": 76,
+      "stock_total": 366
+    }
+  ]
