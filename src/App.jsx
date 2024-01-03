@@ -15,7 +15,7 @@ function App() {
     <ProductosContextProvider>
       <TablaProductos/>
     </ProductosContextProvider>
-    <p> by agustinxpa@gmail.com</p>
+    <p> by <a href="mailto:agustinxpa@gmail.com">agustinxpa@gmail.com</a></p>
     </>
   )
 }
