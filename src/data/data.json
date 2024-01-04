@@ -1753,50 +1753,5 @@
       "temporada": "rscryne5e",
       "stock_suc": 13,
       "stock_total": 233
-    },
-    {
-      "nro_rep": 196,
-      "des_rep": "Onion - Dried",
-      "categoria": "Miscellaneous",
-      "subRubro": "Business Services",
-      "temporada": "jvanderkrui5f",
-      "stock_suc": 42,
-      "stock_total": 311
-    },
-    {
-      "nro_rep": 197,
-      "des_rep": "Cake - Box Window 10x10x2.5",
-      "categoria": "Consumer Services",
-      "subRubro": "Professional Services",
-      "temporada": "mpressman5g",
-      "stock_suc": 42,
-      "stock_total": 954
-    },
-    {
-      "nro_rep": 198,
-      "des_rep": "Energy Drink",
-      "categoria": "n/a",
-      "subRubro": "n/a",
-      "temporada": "fsollon5h",
-      "stock_suc": 30,
-      "stock_total": 249
-    },
-    {
-      "nro_rep": 199,
-      "des_rep": "Pastry - Cherry Danish - Mini",
-      "categoria": "Public Utilities",
-      "subRubro": "Natural Gas Distribution",
-      "temporada": "csurman5i",
-      "stock_suc": 23,
-      "stock_total": 755
-    },
-    {
-      "nro_rep": 200,
-      "des_rep": "Appetizer - Southwestern",
-      "categoria": "Health Care",
-      "subRubro": "Major Pharmaceuticals",
-      "temporada": "ckuhle5j",
-      "stock_suc": 76,
-      "stock_total": 366
     }
   ]
